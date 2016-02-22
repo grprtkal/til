@@ -13,5 +13,6 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 
 
 - [How to Reverse a String in JavaScript](computer-science-fundamentals/how-to-reverse-a-string.md)
+- [What is Big-O Notation](computer-science-fundamentals/what-is-big-o-notation.md)
 
 ### Front End Development 
