@@ -22,3 +22,4 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 
 - [What are the roles in SCRUM and what do they do?](product-management/what-are-scrum-roles.md)
 - [What should a PM do after a release?](product-management/what-to-do-after-release.md)
+- [What are different types of agile?](product-management/what-are-different-types-of-agile.md)
