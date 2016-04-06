@@ -14,13 +14,13 @@ Structure is key:
 # Other questions
 1. What is your favorite product and why? 
 
-Example: Shyp -- good problem to solve; onboarding easy; each step of the process is clear and painless; user experience great (whimsy and fun) 
+- Example: Shyp -- good problem to solve; onboarding easy; each step of the process is clear and painless; user experience great (whimsy and fun) 
 
-Note: don't talk too much about yourself; get inside the head of your user
+- Note: don't talk too much about yourself; get inside the head of your user
 
 2. How do you talk to engineers? 
 
-Understand their stack and the technical world they live in; curious and not afraid to dive in; understand each engineer's work style
+- Understand their stack and the technical world they live in; curious and not afraid to dive in; understand each engineer's work style
 
 
 
