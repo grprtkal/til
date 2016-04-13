@@ -14,7 +14,7 @@
 3. Pull out key areas 
 4. Fill in content for each key area; outline  
 5. Refine for product/market fit; curate for your audience 
-6. Gutt check; does my content support my goals 
+6. Gutt check; does my content support my goals?
 
 
 
