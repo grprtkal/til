@@ -26,3 +26,4 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 - [What types of behavioral questions are PMs asked?](product-management/what-are-examples-of-behavioral-questions-for-PMs.md)
 - [What are some public speaking tips?](product-management/what-are-some-public-speaking-tips.md)
 - [What is universal theory of 2 + 2?](product-management/what-is-universal-theory-of-2-plus-2.md)
+- [What is the lifecycle of a product in product management?](product-management/what-is-product-lifecycle-overview.md)
