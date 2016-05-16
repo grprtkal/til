@@ -7,6 +7,7 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 ### Categories 
 
 * [Computer Science Fundamentals](#computer science fundamentals)
+* [Git](#git)
 * [Front End Development](#front end development)
 * [Product Management](#product management)
 
