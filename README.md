@@ -15,6 +15,9 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 - [How to Reverse a String in JavaScript](computer-science-fundamentals/how-to-reverse-a-string.md)
 - [What is Big-O Notation](computer-science-fundamentals/what-is-big-o-notation.md)
 
+### Git 
+- [How to Change an Old Commit Message that Has Already Been Pushed](git/how-to-change-an-old-commit-message.md)
+
 ### Front End Development 
 
 
@@ -27,3 +30,4 @@ Small snippets of everday learnings inspired by <a href="https://github.com/jbra
 - [What are some public speaking tips?](product-management/what-are-some-public-speaking-tips.md)
 - [What is universal theory of 2 + 2?](product-management/what-is-universal-theory-of-2-plus-2.md)
 - [What is the lifecycle of a product in product management?](product-management/what-is-product-lifecycle-overview.md)
+
